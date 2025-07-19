@@ -1,208 +1,204 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Hardik Tyagi!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FinTech+%7C+LegalTech+%7C+E-commerce;MERN+%7C+Angular+%7C+ASP.NET;AI+%26+Automation+Expert;2%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardiktyagi2503)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codehard25.github.io/Portfolio_HT)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardiktyagi007@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919354512107)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💰+FinTech+%7C+⚖️+LegalTech+%7C+🛒+E-commerce;🤖+AI+Integration+Specialist;⚡+Performance+Optimization+Expert;🎯+2%2B+Years+Building+Solutions" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/hardiktyagi2503)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://codehard25.github.io/Portfolio_HT)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:hardiktyagi007@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+919354512107)
+
+![Profile Views](https://komarev.com/ghpvc/?username=hardiktyagi2503&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 About Me
+
+<div align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+</div>
 
 <div align="center">
 
 | 📍 **Location** | 🎯 **Role** | ⏰ **Experience** | 🎓 **Education** |
 |:---------------:|:------------:|:-----------------:|:-----------------:|
-| Faridabad, India | Full Stack Developer | 2+ years | B.Tech ECE \| RTU (CGPA: 8.6) |
+| 🇮🇳 Faridabad, India | 👨‍💻 Full Stack Developer | ⚡ 2+ years | 🎓 B.Tech ECE \| RTU (CGPA: 8.6) |
 
 </div>
-
-🌟 **Specializations:**
-- 💰 **FinTech Solutions** - Trading platforms, financial analytics, risk management
-- ⚖️ **LegalTech Innovations** - Compliance automation, legal repositories, AI chatbots  
-- 🛒 **E-commerce Platforms** - Scalable web applications, user experience optimization
-
-🎯 **Current Focus:** Building impactful **FinTech, Legal, and E-commerce solutions** with AI integration
-
-💭 **Motto:** *"Code with purpose, build with passion! 💻✨"*
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=hardiktyagi007&color=36BCF7&style=for-the-badge)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=💰+Building+FinTech+Trading+Platforms;⚖️+Automating+Legal+Compliance+Systems;🛒+Creating+Scalable+E-commerce+Solutions;🤖+Integrating+AI-Powered+Features" alt="Specialization Typing SVG" />
 </div>
 
----
+**💭 Motto:** *"Code with purpose, build with passion! 💻✨"*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Excellence
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Database Wizardry
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,scss,bootstrap,nodejs,express,dotnet,flask,django,mongodb,postgres,mysql,git,postman,figma,vscode,github&theme=dark&perline=10" alt="Tech Stack"/>
 
 </div>
-
----
-
-## 💼 Professional Journey
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 **Samyak Infotech Private Limited**
-**Associate Full Stack Developer** _(Jan 2024 - Present)_
-
-- 🔧 Designed & optimized robotic control systems
-- 📈 **12% performance improvement** achieved
-- 🛡️ Ensured industry standards compliance
-- ⚡ **15% reduction in system failures**
-
-</td>
-<td width="50%">
-
-### 🏢 **Proind Business Solutions Pvt. Ltd.**
-**Full Stack Developer Intern-Trainee** _(Aug 2023 - Dec 2023)_
-
-- 🌐 Built compliance portal (AngularJS & ASP.NET)
-- 🎫 **15% reduction in support tickets**
-- 🚀 **40% improved load time**, **35% reduced latency**
-- 🔐 Implemented RBAC with **30% enhanced efficiency**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Featured Projects
 
 <div align="center">
 
-### 💹 **TradeSim-X** - *Real-time Financial Strategy Simulator*
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
+### 🎨 Frontend Mastery
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
-**🎯 Key Achievements:**
-- ⚡ Reduced manual backtesting time by **80%**
-- 📊 Supports **50+** concurrent strategy simulations  
-- 💹 Real-time risk analytics integration
-- 🔐 Google OAuth authentication
+### ⚙️ Backend Excellence
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 
----
+### 🗄️ Database Wizardry
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
 
-### ⚖️ **Legal Repository** - *AI-Powered Compliance Platform*
-![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Chatbot-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-
-**🎯 Key Achievements:**
-- 🤖 AI-powered legal chatbot integration
-- 📋 Automated statutory compliance tracking  
-- 🔔 Smart deadline alerts system
-- 📉 **70%** reduction in manual research effort
-
----
-
-### 👔 **MMF - Men's Mastery Framework** - *AI Fashion Recommender*
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**🎯 Key Achievements:**
-- 🎨 GenAI chatbot for outfit recommendations
-- 📈 **65%+** increase in session time
-- 🎯 **40%+** boost in user interaction  
-- 💡 Contextual NLP for personalized UX
+### 🔧 Tools & Technologies
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 Professional Journey
+
+<div align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+</div>
+
+<details>
+<summary>🏢 <b>Samyak Infotech Private Limited</b> - Associate Full Stack Developer (Jan 2024 - Present)</summary>
+<br>
+
+```diff
++ 🔧 Designed & optimized ED-Tech and E-Commerce control panels
++ 📈 Achieved 12% performance improvement
++ 🛡️ Ensured industry standards Ed-Tech WebApps  
++ ⚡ Delivered 15% reduction in system failures
+```
+
+</details>
+
+<details>
+<summary🏢 <b>Proind Business Solutions Pvt. Ltd.</b> - Full Stack Developer Intern-Trainee (Aug 2023 - Dec 2023)</summary>
+<br>
+
+```diff
++ 🌐 Built compliance portal using AngularJS & ASP.NET
++ 🎫 Achieved 15% reduction in support tickets
++ 🚀 Delivered 40% improved load time & 35% reduced latency
++ 🔐 Implemented RBAC with 30% enhanced efficiency
+```
+
+
+</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardiktyagi007&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiktyagi007&layout=compact&langs_count=8&theme=radical"/>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hardiktyagi007&theme=radical" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeHard25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeHard25&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHard25&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeHard25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeHard25&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35" width="100%" alt="Activity Graph"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Achievement Highlights
 
 <div align="center">
-
-| 🎯 **Impact** | 📈 **Metrics** |
-|:-------------:|:---------------:|
-| Performance Optimization | **12% improvement** in robotic systems |
-| System Reliability | **15% reduction** in failures |
-| Support Efficiency | **15% fewer** support tickets |
-| Load Performance | **40% faster** load times |
-| Response Latency | **35% reduced** latency |
-| User Efficiency | **30% enhanced** access control |
-| Research Automation | **70% reduced** manual effort |
-| User Engagement | **65%+ increased** session time |
-| Trading Efficiency | **80% reduced** backtesting time |
-
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50">
 </div>
-
----
-
-## 🌟 Fun Facts
 
 <div align="center">
 
-**🎓 Academic Excellence:** B.Tech ECE with 8.6 CGPA  
-**💻 Professional Experience:** 2+ years of full-stack development  
-**🤖 Passion:** AI & automation enthusiast  
-**🤖 Industry Focus:** FinTech, LegalTech & E-commerce specialist  
-**📱 Scale:** 50+ concurrent simulations handled  
-**⚡ Impact:** 80% efficiency improvements delivered  
+| 🎯 **Domain** | 📈 **Impact Metrics** | 🚀 **Achievement** |
+|:-------------:|:----------------------:|:------------------:|
+| 🤖 **System Performance** | **12%** improvement | Robotic control optimization |
+| 🛡️ **System Reliability** | **15%** reduction | System failure prevention |
+| 🎫 **Support Efficiency** | **15%** fewer tickets | Enhanced user experience |
+| ⚡ **Load Performance** | **40%** faster | Optimized application speed |
+| 📡 **Response Time** | **35%** reduced | Improved API latency |
+| 🔐 **Access Control** | **30%** enhanced | RBAC implementation |
+| 🔍 **Research Automation** | **70%** reduced effort | AI-powered legal research |
+| 👥 **User Engagement** | **65%+** session time | Personalized AI recommendations |
+| 💹 **Trading Efficiency** | **80%** time saved | Automated backtesting |
+| 📊 **Concurrent Processing** | **50+** simulations | Real-time strategy handling |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌟 Fun Facts & Skills Visualization
+
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+</div>
+
+<div align="center">
+
+**🎓 Academic Excellence:** B.Tech ECE with **8.6 CGPA**  
+**💻 Professional Experience:** **2+ years** of full-stack development  
+**🤖 Passion Focus:** AI & automation integration specialist  
+**🏦 Industry Expertise:** FinTech, LegalTech & E-commerce solutions  
+**📱 Scale Handling:** **50+** concurrent simulations managed  
+**⚡ Performance Impact:** **80%** efficiency improvements delivered  
+
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeHard25&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+</div>
 
 <div align="center">
 
@@ -215,10 +211,16 @@
 
 <br>
 
-**🌟 "Building the future, one commit at a time!" 🌟**
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=🌟+Building+the+future;🔥+One+commit+at+a+time;💫+Let's+create+together!" alt="Closing SVG" />
 
----
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+
+**📬 Ready to collaborate? Let's build something amazing together!**
 
 </div>
