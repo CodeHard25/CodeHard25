@@ -17,17 +17,22 @@
 
 ## 🚀 About Me
 
-```javascript
-const hardik = {
-  location: "Faridabad, India 📍",
-  role: "Full Stack Developer",
-  experience: "2+ years",
-  specialization: ["AI-driven applications", "Scalable web apps", "FinTech solutions"],
-  currentFocus: "Building impactful solutions across LegalTech, FinTech, and E-commerce",
-  education: "B.Tech ECE | RTU (CGPA: 8.6)",
-  motto: "Code with purpose, build with passion! 💻✨"
-};
-```
+<div align="center">
+
+| 📍 **Location** | 🎯 **Role** | ⏰ **Experience** | 🎓 **Education** |
+|:---------------:|:------------:|:-----------------:|:-----------------:|
+| Faridabad, India | Full Stack Developer | 2+ years | B.Tech ECE \| RTU (CGPA: 8.6) |
+
+</div>
+
+🌟 **Specializations:**
+- 🤖 AI-driven applications
+- ⚡ Scalable web apps  
+- 💰 FinTech solutions
+
+🎯 **Current Focus:** Building impactful solutions across LegalTech, FinTech, and E-commerce
+
+💭 **Motto:** *"Code with purpose, build with passion! 💻✨"*
 
 <div align="center">
   
@@ -113,11 +118,11 @@ const hardik = {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
 
-```
-🎯 Reduced manual backtesting time by 80%
-📊 Supports 50+ concurrent strategy simulations
-⚡ Real-time risk analytics integration
-```
+**🎯 Key Achievements:**
+- ⚡ Reduced manual backtesting time by **80%**
+- 📊 Supports **50+** concurrent strategy simulations  
+- 💹 Real-time risk analytics integration
+- 🔐 Google OAuth authentication
 
 ---
 
@@ -126,12 +131,11 @@ const hardik = {
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Chatbot-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 
-```
-🤖 AI-powered legal chatbot integration
-📋 Automated statutory compliance tracking
-🔔 Smart deadline alerts system
-📉 70% reduction in manual research effort
-```
+**🎯 Key Achievements:**
+- 🤖 AI-powered legal chatbot integration
+- 📋 Automated statutory compliance tracking  
+- 🔔 Smart deadline alerts system
+- 📉 **70%** reduction in manual research effort
 
 ---
 
@@ -140,12 +144,11 @@ const hardik = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-```
-🎨 GenAI chatbot for outfit recommendations
-📈 65%+ increase in session time
-🎯 40%+ boost in user interaction
-💡 Contextual NLP for personalized UX
-```
+**🎯 Key Achievements:**
+- 🎨 GenAI chatbot for outfit recommendations
+- 📈 **65%+** increase in session time
+- 🎯 **40%+** boost in user interaction  
+- 💡 Contextual NLP for personalized UX
 
 </div>
 
@@ -188,16 +191,12 @@ const hardik = {
 
 <div align="center">
 
-```ascii
-     ╭─────────────────────────────────────────────────╮
-     │  🎓 B.Tech ECE with 8.6 CGPA                   │
-     │  💻 2+ years of full-stack development         │
-     │  🤖 AI & automation enthusiast                 │
-     │  🏦 FinTech & LegalTech specialist             │
-     │  📱 50+ concurrent simulations handled         │
-     │  ⚡ 80% efficiency improvements delivered       │
-     ╰─────────────────────────────────────────────────╯
-```
+**🎓 Academic Excellence:** B.Tech ECE with 8.6 CGPA  
+**💻 Professional Experience:** 2+ years of full-stack development  
+**🤖 Passion:** AI & automation enthusiast  
+**🏦 Industry Focus:** FinTech & LegalTech specialist  
+**📱 Scale:** 50+ concurrent simulations handled  
+**⚡ Impact:** 80% efficiency improvements delivered  
 
 </div>
 
