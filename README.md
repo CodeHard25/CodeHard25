@@ -23,28 +23,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 About Me
-
-<div align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
-</div>
-
-<div align="center">
-
-| 📍 **Location** | 🎯 **Role** | ⏰ **Experience** | 🎓 **Education** |
-|:---------------:|:------------:|:-----------------:|:-----------------:|
-| 🇮🇳 Faridabad, India | 👨‍💻 Full Stack Developer | ⚡ 2+ years | 🎓 B.Tech ECE \| RTU (CGPA: 8.6) |
-
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=💰+Building+FinTech+Trading+Platforms;⚖️+Automating+Legal+Compliance+Systems;🛒+Creating+Scalable+E-commerce+Solutions;🤖+Integrating+AI-Powered+Features" alt="Specialization Typing SVG" />
-</div>
-
-**💭 Motto:** *"Code with purpose, build with passion! 💻✨"*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -85,40 +63,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Professional Journey
-
-<div align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-</div>
-
-<details>
-<summary>🏢 <b>Samyak Infotech Private Limited</b> - Associate Full Stack Developer (Jan 2024 - Present)</summary>
-<br>
-
-```diff
-+ 🔧 Designed & optimized ED-Tech and E-Commerce control panels
-+ 📈 Achieved 12% performance improvement
-+ 🛡️ Ensured industry standards Ed-Tech WebApps  
-+ ⚡ Delivered 15% reduction in system failures
-```
-
-</details>
-
-<details>
-<summary🏢 <b>Proind Business Solutions Pvt. Ltd.</b> - Full Stack Developer Intern-Trainee (Aug 2023 - Dec 2023)</summary>
-<br>
-
-```diff
-+ 🌐 Built compliance portal using AngularJS & ASP.NET
-+ 🎫 Achieved 15% reduction in support tickets
-+ 🚀 Delivered 40% improved load time & 35% reduced latency
-+ 🔐 Implemented RBAC with 30% enhanced efficiency
-```
-
-
-</details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
@@ -181,32 +126,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeHard25&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-</div>
-
-<div align="center">
-
-💡 **Always excited to discuss:**
-- 💰 **FinTech Innovations** - Trading platforms, payment systems, financial analytics
-- ⚖️ **LegalTech Solutions** - Compliance automation, document management, AI legal assistants
-- 🛒 **E-commerce Platforms** - Scalable architectures, user experience, conversion optimization
-- 🤖 **AI Integration** - Chatbots, automation, machine learning applications
-- 🚀 **Performance Optimization** - System efficiency, scalability solutions
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=🌟+Building+the+future;🔥+One+commit+at+a+time;💫+Let's+create+together!" alt="Closing SVG" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
 
 <div align="center">
 
