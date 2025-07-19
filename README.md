@@ -171,21 +171,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌟 Fun Facts & Skills Visualization
+## 🌟Skills Visualization
 
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-</div>
-
-<div align="center">
-
-**🎓 Academic Excellence:** B.Tech ECE with **8.6 CGPA**  
-**💻 Professional Experience:** **2+ years** of full-stack development  
-**🤖 Passion Focus:** AI & automation integration specialist  
-**🏦 Industry Expertise:** FinTech, LegalTech & E-commerce solutions  
-**📱 Scale Handling:** **50+** concurrent simulations managed  
-**⚡ Performance Impact:** **80%** efficiency improvements delivered  
-
 </div>
 
 <div align="center">
