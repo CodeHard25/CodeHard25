@@ -126,9 +126,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeHard25&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
-
 <div align="center">
 
-**📬 Ready to collaborate? Let's build something amazing together!**
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 </div>
+
+
