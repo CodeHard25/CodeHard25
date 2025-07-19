@@ -1,13 +1,13 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Hardik Tyagi!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+Angular+%7C+ASP.NET;AI+%26+FinTech+Enthusiast;2%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;FinTech+%7C+LegalTech+%7C+E-commerce;MERN+%7C+Angular+%7C+ASP.NET;AI+%26+Automation+Expert;2%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardiktyagi2503)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codehard25.github.io/Portfolio_HT/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codehard25.github.io/Portfolio_HT)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardiktyagi007@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919354512107)
 
@@ -26,11 +26,11 @@
 </div>
 
 🌟 **Specializations:**
-- 🤖 AI-driven applications
-- ⚡ Scalable web apps  
-- 💰 FinTech solutions
+- 💰 **FinTech Solutions** - Trading platforms, financial analytics, risk management
+- ⚖️ **LegalTech Innovations** - Compliance automation, legal repositories, AI chatbots  
+- 🛒 **E-commerce Platforms** - Scalable web applications, user experience optimization
 
-🎯 **Current Focus:** Building impactful solutions across LegalTech, FinTech, and E-commerce
+🎯 **Current Focus:** Building impactful **FinTech, Legal, and E-commerce solutions** with AI integration
 
 💭 **Motto:** *"Code with purpose, build with passion! 💻✨"*
 
@@ -157,8 +157,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeHard25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeHard25&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hardiktyagi007&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardiktyagi007&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
@@ -194,7 +194,7 @@
 **🎓 Academic Excellence:** B.Tech ECE with 8.6 CGPA  
 **💻 Professional Experience:** 2+ years of full-stack development  
 **🤖 Passion:** AI & automation enthusiast  
-**🏦 Industry Focus:** FinTech & LegalTech specialist  
+**🤖 Industry Focus:** FinTech, LegalTech & E-commerce specialist  
 **📱 Scale:** 50+ concurrent simulations handled  
 **⚡ Impact:** 80% efficiency improvements delivered  
 
@@ -207,11 +207,11 @@
 <div align="center">
 
 💡 **Always excited to discuss:**
-- 🚀 Innovative web solutions
-- 🤖 AI-driven applications  
-- 📊 FinTech innovations
-- ⚖️ LegalTech automation
-- 🎯 Performance optimization
+- 💰 **FinTech Innovations** - Trading platforms, payment systems, financial analytics
+- ⚖️ **LegalTech Solutions** - Compliance automation, document management, AI legal assistants
+- 🛒 **E-commerce Platforms** - Scalable architectures, user experience, conversion optimization
+- 🤖 **AI Integration** - Chatbots, automation, machine learning applications
+- 🚀 **Performance Optimization** - System efficiency, scalability solutions
 
 <br>
 
